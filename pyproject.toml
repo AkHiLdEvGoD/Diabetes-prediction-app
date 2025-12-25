@@ -1,0 +1,22 @@
+[project]
+name = "diabetes-prediction-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.41.5",
+    "catboost>=1.2.8",
+    "dvc>=3.65.0",
+    "dvc-s3>=3.2.2",
+    "mlflow>=3.8.0",
+    "numpy>=2.4.0",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.8.0",
+    "xgboost>=3.1.2",
+    "fastapi>=0.127.0",
+    "uvicorn>=0.40.0",
+    "pydantic>=2.12.5",
+    "evidently>=0.7.18",
+    "python-dotenv>=1.2.1",
+]
