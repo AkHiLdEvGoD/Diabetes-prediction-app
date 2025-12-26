@@ -1,0 +1,18 @@
+data_source:
+  type: s3
+
+  s3:
+    bucket: diabetes-prediction-source
+    prefixes:
+      baseline: baseline/
+      batches: batches/
+
+  files:
+    baseline: baseline.csv
+
+    batches:
+      - batch_01.csv
+      - batch_02.csv
+      - batch_03.csv
+      - batch_04.csv
+      - batch_05.csv
