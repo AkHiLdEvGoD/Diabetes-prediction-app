@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-s3
+['remote "dvc-s3"']
+    url = s3://diabetes-capstone
