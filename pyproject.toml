@@ -21,4 +21,5 @@ dependencies = [
     "python-dotenv>=1.2.1",
     "apache-airflow>=3.1.0",
     "loguru>=0.7.3",
+    "optuna>=4.6.0",
 ]

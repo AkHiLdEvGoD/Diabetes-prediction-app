@@ -1,0 +1,35 @@
+{
+  "numeric_features": [
+    "age",
+    "alcohol_consumption_per_week",
+    "physical_activity_minutes_per_week",
+    "diet_score",
+    "sleep_hours_per_day",
+    "screen_time_hours_per_day",
+    "bmi",
+    "waist_to_hip_ratio",
+    "systolic_bp",
+    "diastolic_bp",
+    "heart_rate",
+    "cholesterol_total",
+    "hdl_cholesterol",
+    "ldl_cholesterol",
+    "triglycerides"
+  ],
+  "categorical_features": [
+    "gender",
+    "ethnicity",
+    "education_level",
+    "income_level",
+    "smoking_status",
+    "employment_status",
+    "family_history_diabetes",
+    "hypertension_history",
+    "cardiovascular_history"
+  ],
+  "engineered_features": [
+    "bmi_category",
+    "activity_level"
+  ],
+  "target": "diagnosed_diabetes"
+}

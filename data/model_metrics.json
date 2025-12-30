@@ -1,0 +1,12 @@
+{
+  "model_name": "catboost",
+  "model_family": "boosting",
+  "metrics": {
+    "roc_auc": 0.7232874692248088,
+    "accuracy": 0.6820793650793651,
+    "f1": 0.7684749563629217,
+    "recall": 0.8457154488092815,
+    "precision": 0.7041626946298062
+  },
+  "timestamp": "2025-12-31T03:24:57.476238"
+}
