@@ -1,0 +1,11 @@
+{
+  "promote": true,
+  "reason": "No production model exists (bootstrap)",
+  "candidate": {
+    "model_name": "xgb",
+    "model_family": "tree",
+    "roc_auc": 0.722572722108441
+  },
+  "production": null,
+  "timestamp": "2026-01-01T23:39:52.219707"
+}

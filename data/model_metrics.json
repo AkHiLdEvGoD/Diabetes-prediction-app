@@ -1,12 +1,13 @@
 {
-  "model_name": "catboost",
-  "model_family": "boosting",
+  "model_name": "xgb",
+  "model_family": "tree",
+  "run_id": "07e7ebe6d3a34087a7a894a6a67b32d8",
   "metrics": {
-    "roc_auc": 0.7232874692248088,
-    "accuracy": 0.6820793650793651,
-    "f1": 0.7684749563629217,
-    "recall": 0.8457154488092815,
-    "precision": 0.7041626946298062
+    "roc_auc": 0.722572722108441,
+    "accuracy": 0.6808412698412698,
+    "precision": 0.7043668959056358,
+    "recall": 0.8416955017301038,
+    "f1": 0.7669321092835367
   },
-  "timestamp": "2025-12-31T03:24:57.476238"
+  "timestamp": "2026-01-01T23:37:39.741453"
 }

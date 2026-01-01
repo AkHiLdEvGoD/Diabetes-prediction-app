@@ -209,3 +209,4 @@ logs/
 data/*
 !data/*.dvc
 !data/*.json
+catboost_info/
